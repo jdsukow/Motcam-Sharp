@@ -1,4 +1,4 @@
-CSMotcam
+Motcam-Sharp
 ========
 
 Motion Camera Suite
